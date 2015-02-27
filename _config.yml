@@ -1,0 +1,14 @@
+# Site settings
+title: Mohammadhussain Khatri
+email: hussain@blackid.com
+description: > # this means to ignore newlines until "baseurl:"
+ I am Mohammadhussain Khatri, working in Baroda as software engineer and currently targeting Android apps development.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: mohammadkhatri
+github_username:  mohammadkhatri
+
+# Build settings
+markdown: kramdown
+permalink: :title
+
