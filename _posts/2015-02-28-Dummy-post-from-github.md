@@ -35,10 +35,10 @@ dalvik.system.NativeStart.main (NativeStart.java)
 
 {% endhighlight %}
 
- ### So, What can be issue here ?
-  - It can be issue in `getCount()` method of List Adapter with is returning null.
-  - It can be list object passed to adapter is null.
-  - Listview can be null.
+### So, What can be issue here ?
+- It can be issue in `getCount()` method of List Adapter with is returning null.
+- It can be list object passed to adapter is null.
+- Listview can be null.
 
 @mohammadkhatri is confused. :raising_hand: :raising_hand: :raising_hand: 
 
