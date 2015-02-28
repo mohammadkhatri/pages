@@ -34,5 +34,15 @@ java.lang.reflect.Method.invokeNative (Method.java)
 dalvik.system.NativeStart.main (NativeStart.java)
 
 {% endhighlight %}
+```
+* So, What can be issue here ?
+  - It can be issue in `getCount()` method of List Adapter with is returning null.
+  - It can be list object passed to adapter is null.
+  - Listview can be null.
+```
+
+@mohammadkhatri is confused. 
+
+![Image of Crashlytics]({{ "/images/screen1.png" | prepend: site.baseurl }})
 
 [1]: https://fabric.io/blackid/android/apps/com.cagy.androtv/issues/54f090c67d7854d7c9933bf8
