@@ -10,7 +10,7 @@ categories: crashlytics
 
 It's showing following error
 
-```java
+{% highlight java %}
 
 Caused by java.lang.NullPointerException
 com.cagy.androtv.adapters.ListChannel_Adapter.getCount (ListChannel_Adapter.java:46)
@@ -32,6 +32,7 @@ android.os.Looper.loop (Looper.java:146)
 android.app.ActivityThread.main (ActivityThread.java:5602)
 java.lang.reflect.Method.invokeNative (Method.java)
 dalvik.system.NativeStart.main (NativeStart.java)
-```
+
+{% endhighlight %}
 
 [1]: https://fabric.io/blackid/android/apps/com.cagy.androtv/issues/54f090c67d7854d7c9933bf8
