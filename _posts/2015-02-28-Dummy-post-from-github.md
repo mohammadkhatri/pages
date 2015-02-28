@@ -41,7 +41,11 @@ dalvik.system.NativeStart.main (NativeStart.java)
   - Listview can be null.
 ```
 
-@mohammadkhatri is confused. 
+@mohammadkhatri is confused. :raising_hand: :raising_hand: :raising_hand: 
+
+- [x] @mohammadkhatri, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] this is a complete item
+- [ ] this is an incomplete item
 
 ![Image of Crashlytics]({{ "/images/screen1.png" | prepend: site.baseurl }})
 
